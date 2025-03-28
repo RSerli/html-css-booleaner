@@ -1,0 +1,12 @@
+/* Configurazioni generali */
+
+header {
+    background-color: rgb(0, 200, 255);
+}
+
+/* Configurazioni specifiche */
+
+#LogoTheBooleaner {
+    width: 195px;
+    padding: 25px 10px;
+}
