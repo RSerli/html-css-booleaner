@@ -9,9 +9,18 @@ h2 {
     margin: 0px;
 }
 
+a:hover {
+    cursor: default;
+    color: blue;
+}
+
 /* Configurazioni specifiche */
 
 #LogoTheBooleaner {
     width: 195px;
     padding: 25px 10px;
+}
+
+.articles-section {
+    margin: 20px 0;
 }
