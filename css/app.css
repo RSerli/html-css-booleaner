@@ -61,3 +61,12 @@ a:hover {
 .AlternateTableRow {
     background-color: rgba(0, 204, 255, 0.270);
 }
+
+/* Configurazione elementi del Footer */
+
+.Copyright-Line {
+    background-color: rgb(10, 10, 145);
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
