@@ -63,6 +63,10 @@ a:hover {
     background-color: rgba(0, 204, 255, 0.270);
 }
 
+.ColumnWidthSetting-1 {
+    width: 23%;
+}
+
 /* Configurazione elementi del Footer */
 
 .Copyright-Line {
